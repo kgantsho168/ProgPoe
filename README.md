@@ -1,11 +1,10 @@
 # ProgPoe
-# Part2
 To be able to compile or run the Program a Visual Studio ide that accepts a C# console is required
 To run compile and run software:
-Step 1: Open ProgPoe.zip Folder
-Step 2: Open ProgPoe File folder
-Step 3: Select and Open the 'ProgPoe.snl project file
+Step 1: Open Program File Folder
+Step 2: Open the ProgPoe File Folder
+Step 3: Open the Program.cs C# Source File with an IDE that supports C# programming language
 
-By using the feedback and re-doing the part one I discovered possible potential errors and variables I needed to change in order to continue with the project, by using generic collection, it gave me an easier and better way of storing ingredients, unit of measurements, quantity ...etc, instead of using multi-dimensional arrays that required a lot complex codes and a lot of loops. I was able to add new features that only require me to insert less but well thought of code, I used manipulation in order to be able to create other features that require user input and calculations from that software.
+I had minor errors that caused problems with certain functions, there were infinite loops in the previous program for part 2, I corrected the errors by using break functions to exit the loop functions in order to start new functions that were following after the function that would cause a forever loop of requiring user input or errors in the program. I haven’t changed  most of the program as some were working and not resulting in errors, I added new functions that resulted in changing some of the previous functions in order for the new functions to work without any minor or major error that can affect the whole application.
 
 https://github.com/kgantsho168/ProgPoe/edit/main/README.md
